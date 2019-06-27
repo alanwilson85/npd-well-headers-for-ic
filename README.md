@@ -6,8 +6,8 @@
 - See a list of Well Attibutes you need to create in IC (in addition to the defaults).<br>
 
 <b>Imports NPD well headers from:</b><br>
-- NPD Factpages > Wellbore > Table View > Exploration > All - Long List (permanent link)<br>
-- NPD Factpages > Wellbore > Table View > Development > All - Long List. (permanent link)<br><br>
+- NPD Factpages > Wellbore > Table View > Exploration > All - Long List (<a href="http://factpages.npd.no/factpages/Default.aspx?culture=en&nav1=wellbore&nav2=TableView|Exploration|All">permanent link</a>)<br>
+- NPD Factpages > Wellbore > Table View > Development > All - Long List. (<a href="http://factpages.npd.no/factpages/Default.aspx?culture=en&nav1=wellbore&nav2=TableView|Development">permanent link</a>)<br><br>
 
 <b>Run the script as it is, or edit options to:</b><br>
 - A. Rename dozens of header fields to match IC defaults, e.g. 'Entered date' to 'SPUD date'.<br>
