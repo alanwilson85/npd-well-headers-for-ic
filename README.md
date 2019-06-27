@@ -3,7 +3,7 @@
 - Quickly reformat NPD Well Headers so that column names match up perfectly in IC's Well Header Import tool.<br>
 - Prepare .CSV files for nearly 1900 exploration and 5000 development well headers in seconds.<br>
 - Create separate URL/Reference files for IC with links to NPD FactPages, FactMaps and Press Releases.<br>
-- See a list of Well Attibutes you need to create in IC (that is, in addition to the defaults).<br>
+- See a list of Well Attibutes you need to create in IC (in addition to the defaults).<br>
 
 <b>Imports NPD well headers from:</b><br>
 - NPD Factpages > Wellbore > Table View > Exploration > All - Long List (permanent link)<br>
