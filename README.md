@@ -21,6 +21,6 @@ J. Create separate well header files for exploration and development wells, or c
 
 <b>Outputs four files for import to IC:</b><br>
 IC_explo_references.csv<br>
-IC_dev_references.csv
-IC_wellbore_exploration.CSV
-IC_wellbore_development.CSV
+IC_dev_references.csv<br>
+IC_wellbore_exploration.csv<br>
+IC_wellbore_development.csv<br>
