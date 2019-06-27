@@ -1,9 +1,9 @@
 # npd-well-headers-for-ic
 
-This script reformats NPD Well Headers for IC so that column names match up perfectly first time. 
-It allowing you to prepares well header files for nearly 1900 exploration and 5000 development wells in seconds. 
-It script automatically creates separate URL/Reference files for IC with links to NPD FactPages, FactMaps and Press Releases. 
-And it tells you which Well Attibutes you need to create in IC.
+Quickly reformats NPD Well Headers for IC so that column names match up perfectly first time.<br>
+Prepare well header files for nearly 1900 exploration and 5000 development wells in seconds.<br>
+Automatically create separate URL/Reference files for IC with links to NPD FactPages, FactMaps and Press Releases.<br>
+See a list of Well Attibutes you need to create in IC (that is, in addition to the defaults).<br>
 
 <b>Imports NPD well headers from:</b><br>
 NPD Factpages > Wellbore > Table View > Exploration > All - Long List (permanent link)<br>
