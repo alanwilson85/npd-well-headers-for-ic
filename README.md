@@ -2,7 +2,7 @@
 
 <h2>NPD well headers reformatted for import to IC</h2>
 
-Automatically download offshore well header information from the NPD (Norwegian Petroleum Directorate) and output reformatted files, optimised for LR's <a href="https://www.lr.org/en-gb/visualise-your-well-data/" target="_blank">IC software</a>. 
+Automatically download offshore well header information from the <a href="https://www.npd.no/en/" target="_blank">NPD</a> (Norwegian Petroleum Directorate) and output reformatted files, optimised for LR's <a href="https://www.lr.org/en-gb/visualise-your-well-data/" target="_blank">IC software</a>. 
 
 - Update Norwegian well header information in IC more regularly with ease.<br>
 - Prepare .csv files for nearly 1900 exploration and 5000 development wells.<br>
