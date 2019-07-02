@@ -5,5 +5,6 @@
 - Automatically creates separate URL/Reference files for IC with links to NPD FactPages, FactMaps and Press Releases.
 - Advises which Well Attibutes you need to manually create in IC.
 
-<b>Run this notebook in Colaboratory</b><<br><br>
-https://mybinder.org/v2/gh/awgeo/npd-well-headers-for-ic/master
+<b>Run this notebook in Colaboratory</b><br><br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awgeo/npd-well-headers-for-ic/master)
+
