@@ -8,5 +8,6 @@
 - Advises which Well Attibutes you need to add to IC, and creates the SQL code you can run in SSMS.<br>
 
 <b>Run this notebook in Colaboratory</b><br><br>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awgeo/npd-well-headers-for-ic/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/awgeo/npd-well-headers-for-ic/master)<br><br>
 
+<b>Or run run this notebooks locally.</b>
